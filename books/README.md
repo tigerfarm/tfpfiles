@@ -20,17 +20,9 @@ A rule of thumb, is to have 10-12 words across a page. This is what the eyes and
 When you create a print a book, you state your copyright. No need to do anything else to register a copyright.
 You can search and read to see what is suggested.
 I did see that there is a formal process for copyright, but since 
+Sample document with my copyright notice: [book front part](https://github.com/tigerfarm/tfpfiles/blob/master/books/content/poetry/Ps6x9c-front.pdf)
 
-Copyright © 2019, Stacy David Thurston, United States of America.
-All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, without permission in writing from the author, except for the use of brief quotations in a book review or scholarly journal.
-
-Lulu.com publisher ISBN: 978-0-359-40287-8
-
-Cover by Tiger Farm Press using author's photo taken in the Louvre in Paris.
-
-First Edition
-
-TIGER FARM PRESS  CALIFORNIA
+https://github.com/tigerfarm/tfpfiles/blob/master/books/content/poetry/Ps6x9c-front.pdf
 
 --------------------------------------------------------------------------------
 Cheers...
